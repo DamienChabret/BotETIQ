@@ -7,5 +7,5 @@ Son préfixe est : ``e!`` afin de pouvoir l'utiliser.
 
 Il possède plusieurs commandes :    
 ``e! help`` : pour obtenir de l'aide  
-``e! open`` : pour blablabla   
-``e! close`` : Pour blazblabla  
+``e! open`` : pour qu'un message soit envoyé indiquant que le local est ouvert   
+``e! close`` : pour qu'un message soit envoyé indiquant que le local est fermé
